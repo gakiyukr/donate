@@ -1,0 +1,8 @@
+{
+    "export":[
+        {
+            "in":"index.parse.html",
+            "out":"index.html"
+        }
+    ]
+}
