@@ -5,7 +5,7 @@
 [vwo50.co](https://vwo50.co/)
 
 ## 使用方法
-
+本程序可以完美部署在vercel、Azure Web Server等服务，甚至也可以丢到s3储存里，放vps也不是不行。
 ### 初步入门
 
 index.html中的12-47行对应着相应的Logo，如无特殊需求，无需更换。
