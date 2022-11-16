@@ -21,7 +21,7 @@ window.addEventListener("load", () => {
     });
 
     document.querySelector("[ECNY] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/alipaymoqr.png" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/ecnypay.jpg" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
