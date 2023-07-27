@@ -28,12 +28,12 @@ window.addEventListener("load", () => {
         imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/QQPAY_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
-
+    /*
     document.querySelector("[ECNY] [pay-btn]").addEventListener("click", () => {
         imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/alipaymoqr.png" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
-
+    */
     document.querySelector("[USDT] [pay-btn]").addEventListener("click", () => {
         imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/Crypto_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
