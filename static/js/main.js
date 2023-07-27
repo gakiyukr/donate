@@ -10,22 +10,22 @@ window.addEventListener("load", () => {
     });
 
     document.querySelector("[Alipay] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3jp.blob.core.windows.net/oss/pay/qr/Alipay_Plus_QR.webp" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/Alipay_Plus_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
     document.querySelector("[HKMO] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3jp.blob.core.windows.net/oss/pay/qr/Alipay_HKMO_QR.webp" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/Alipay_HKMO_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
     document.querySelector("[Wechat] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3jp.blob.core.windows.net/oss/pay/qr/WechatPay_CNHK_QR.webp" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/WechatPay_CNHK_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
     document.querySelector("[QQ] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3jp.blob.core.windows.net/oss/pay/qr/QQPAY_QR.webp" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/QQPAY_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
@@ -35,7 +35,7 @@ window.addEventListener("load", () => {
     });
 
     document.querySelector("[USDT] [pay-btn]").addEventListener("click", () => {
-        imgWindow.innerHTML = `<img src="https://s3jp.blob.core.windows.net/oss/pay/qr/Crypto_QR.webp" height="500" draggable="false">`;
+        imgWindow.innerHTML = `<img src="https://s3-jp-ap-3.040407.xyz/oss/pay/qr/Crypto_QR.webp" height="500" draggable="false">`;
         imgWindow.style.display = "flex";
     });
 
